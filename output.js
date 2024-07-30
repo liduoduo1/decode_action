@@ -1,4 +1,4 @@
-//Tue Jul 30 2024 23:34:27 GMT+0000 (Coordinated Universal Time)
+//Tue Jul 30 2024 23:39:58 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x1366a8 = _0x1c156a("顺丰速运"),
@@ -3054,7 +3054,7 @@ class _0x520715 extends _0x49bd9d {
   }
 })().catch(_0x4c6d3b => _0x1366a8.log(_0x4c6d3b)).finally(() => _0x1366a8.exitNow());
 async function _0x1325bb(_0x36df = 0) {
-  let _0xfbf9a4 = false;
+  let _0xfbf9a4 = true;
   try {
     let _0x1c7a38 = {
         fn: "auth",
