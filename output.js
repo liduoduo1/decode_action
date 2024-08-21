@@ -1,4 +1,4 @@
-//Wed Aug 21 2024 00:15:56 GMT+0000 (Coordinated Universal Time)
+//Wed Aug 21 2024 00:19:47 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x8716db = new _0x4cda8f("北京现代");
