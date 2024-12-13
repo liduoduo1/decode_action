@@ -1,4 +1,4 @@
-//Tue Aug 27 2024 13:36:58 GMT+0000 (Coordinated Universal Time)
+//Fri Dec 13 2024 08:12:34 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const imageFileName = "bjxd.png";
