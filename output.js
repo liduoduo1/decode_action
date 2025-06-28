@@ -1,4 +1,4 @@
-//Sat Jun 28 2025 08:47:58 GMT+0000 (Coordinated Universal Time)
+//Sat Jun 28 2025 09:05:06 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const imageFileName = "bjxd.png";
